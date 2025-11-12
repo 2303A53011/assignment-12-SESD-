@@ -1,0 +1,3 @@
+body { background: #f8f9fa; }
+.article-card { min-height: 160px; }
+.article-image { object-fit: cover; width: 100%; height: 140px; }
